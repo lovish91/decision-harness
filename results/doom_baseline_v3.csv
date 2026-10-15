@@ -1,0 +1,11 @@
+timestamp_utc,environment,policy,requested_seed,steps,last_observed_tic,total_reward,player_dead,episode_finished,mean_decision_latency_ms,policy_decisions_per_second
+2026-10-15T14:08:00.834766+00:00,ViZDoom basic.cfg,Visual heuristic baseline,123,6,19,95.0,False,True,1.06865,935.76
+2026-10-15T14:09:53.825418+00:00,ViZDoom basic.cfg,Visual heuristic baseline,123,6,19,95.0,False,True,0.786617,1271.27
+2026-10-15T14:09:54.908211+00:00,ViZDoom basic.cfg,Visual heuristic baseline,123,6,19,95.0,False,True,0.763817,1309.21
+2026-10-15T14:09:55.696223+00:00,ViZDoom basic.cfg,Visual heuristic baseline,123,6,19,95.0,False,True,0.814333,1228.0
+2026-10-15T14:09:56.417868+00:00,ViZDoom basic.cfg,Visual heuristic baseline,123,6,19,95.0,False,True,0.679583,1471.49
+2026-10-15T14:09:57.138072+00:00,ViZDoom basic.cfg,Visual heuristic baseline,123,6,19,95.0,False,True,0.5262,1900.42
+2026-10-15T14:14:35.395146+00:00,ViZDoom basic.cfg,Visual heuristic baseline,123,6,19,95.0,False,True,1.577283,634.0
+2026-10-15T14:14:39.221390+00:00,ViZDoom basic.cfg,Visual heuristic baseline,456,200,213,-270.0,False,True,1.359896,735.35
+2026-10-15T14:14:40.119065+00:00,ViZDoom basic.cfg,Visual heuristic baseline,123,6,19,95.0,False,True,0.727383,1374.79
+2026-10-15T14:31:14.771902+00:00,ViZDoom basic.cfg,Visual heuristic baseline,123,6,19,95.0,False,True,0.775583,10.090067,1289.35

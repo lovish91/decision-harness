@@ -1,0 +1,6 @@
+{
+  "policy": "heuristic",
+  "variation_threshold": 55,
+  "darkness_threshold": 45,
+  "attack_fallback": true
+}
